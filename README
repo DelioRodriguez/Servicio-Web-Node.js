@@ -16,20 +16,20 @@ Este proyecto incluye un servicio web que interactúa con el servicio externo pr
 ### **1. Listar contactos (GET en Postman)**  
 En esta imagen se muestra cómo obtener la lista de contactos desde el servicio web utilizando Postman.
 
-![Listar Contactos](/images/Imagen Get Postman)
+![Listar Contactos](/images/Imagen%20Get%20Postman.png)
 
 ---
 
 ### **2. Almacenar contactos (POST en Postman)**  
 En esta imagen se muestra cómo agregar un nuevo contacto al servicio web utilizando Postman.
 
-![Almacenar Contactos](./assets/post_postman.png)
+![Almacenar Contactos](/images/Imagen%20Post%20Postman.png)
 
 ---
 
 ### **3. Servicio web en el navegador (Google Chrome)**  
 En esta imagen se muestra el servicio web ejecutándose en el navegador.
 
-![Servicio Web en Google](./assets/web_service_chrome.png)
+![Servicio Web en Google](/images/Imagen%20Web%20Servidor.png)
 
 ---
