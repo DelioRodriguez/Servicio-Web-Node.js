@@ -1,9 +1,6 @@
 # **Servicio Web**
 
-<p style="font-family: 'Times New Roman', serif; font-size: 18px;">
-    Mi nombre es **Delio Rodriguez**, este es mi proyecto de servicio web utilizando **Node.js** con **Express** 
-    para la materia **Programación Web**. Mi matrícula es **2023-1056**.
-</p>
+Mi nombre es **Delio Rodriguez**, este es mi proyecto de servicio web utilizando Node.js con Express para la materia Programación Web. Mi matrícula es 2023-1056.
 
 ## **Descripción**
 
